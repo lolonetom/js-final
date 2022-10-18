@@ -1,0 +1,8 @@
+[
+    {"id":1, "nombre": "Básico - Mensual", "precio": 300, "imagen":"./images/itembg.jpeg"},
+    {"id":2, "nombre": "Negocio - Mensual", "precio": 400, "imagen":"./images/itembg.jpeg"},
+    {"id":3, "nombre": "Avanzado - Mensual", "precio": 550, "imagen":"./images/itembg.jpeg"},
+    {"id":4, "nombre": "Básico - Anual", "precio": 1600, "imagen":"./images/itembg.jpeg"},
+    {"id":5, "nombre": "Negocio - Anual", "precio": 2500, "imagen":"./images/itembg.jpeg"},
+    {"id":6, "nombre":"Avanzado - Anual", "precio": 2800, "imagen":"./images/itembg.jpeg"}
+]
